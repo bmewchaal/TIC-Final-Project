@@ -7,10 +7,10 @@ Prenom : Mechaal Abderrahmane
 Matricule : 31531101
 E-mail : mechaalbeek987@gmail.com
 2\
-nom: Ayache \n
-prenom: Khalil \n
-matricule: 31413819 \n
-e-mail: wayache01@gmail.com \n
+nom: Ayache
+prenom: Khalil
+matricule: 31413819
+e-mail: wayache01@gmail.com
 3\
 nom: Alliche
 prenom:Youcef Ali
